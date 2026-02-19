@@ -2,4 +2,4 @@ odom_tf_node:
   ros__parameters:
     odom_topic: /odom
     parent_frame: odom
-    child_frame: base_link
+    child_frame: base_footprint
